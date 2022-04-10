@@ -1,5 +1,4 @@
 
-Atividade  
 ## Pousada Verão
 Pousada Verão é uma site de uma pousada feito com HTML e CSS. Este projeto é uma adaptação de uma atividade prática do DevMedia.
 
