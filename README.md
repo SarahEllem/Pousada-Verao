@@ -16,4 +16,4 @@ Pousada Verão é uma site de uma pousada feito com HTML e CSS. Este projeto é 
 
   * **Sarah Ellem** 
 
-  Obrigada por visitar!****
+  Obrigada por visitar!
